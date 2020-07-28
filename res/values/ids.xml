@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="listView1" />
+    <item type="id" name="imageView1" />
+    <item type="id" name="textView1" />
+    <item type="id" name="action_settings" />
+    <item type="id" name="action_play" />
+</resources>
